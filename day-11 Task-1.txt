@@ -4,7 +4,7 @@ Write a query to Join Students and Marks?
 +------------+----------+----------------------+------------+----------+---------------------+
 | studrollno | studname | studemail            | studphno   | studdept | course              |
 +------------+----------+----------------------+------------+----------+---------------------+
-|     103723 | Karthik  | karthik123@gmail.com | 1234567891 | CT       | Computer Technology |
+|     103723 | Karthik  | kumar123@gmail.com | 1234567891 | CT       | Computer Technology |
 |     103725 | Robert   | Robert413@gmail.com  | 1234876590 | CT       | Computer Technology |
 |     103726 | Anirudha | ani567@gmail.com     | 994241324  | CT       | Computer Technology |
 |     103728 | Abi      | abi1611@gmail.com    | 1239874560 | CT       | Computer Technology |
