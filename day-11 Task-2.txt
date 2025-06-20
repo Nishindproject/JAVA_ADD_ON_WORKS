@@ -9,5 +9,5 @@ Write a Sub-query to find top performer?
 +----------+------------+----------------------+---------------------+---------+-------+
 | studname | studrollno | studemail            | course              | subject | marks |
 +----------+------------+----------------------+---------------------+---------+-------+
-| Karthik  |     103723 | karthik123@gmail.com | Computer Technology | Tamil   |    90 |
+| Karthik  |     103723 | kumar@gmail.com | Computer Technology | Tamil   |    90 |
 +----------+------------+----------------------+---------------------+---------+-------+
